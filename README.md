@@ -1,7 +1,7 @@
 # 🛡️ Adversarial Patch Papers Collection
 
 > 📚 **A comprehensive collection of research papers on backdoor defenses in machine learning.**  
-> 🎓 **Maintained by**: Dr. [Your Name] | [Your Affiliation] | [Your Email/Website]
+> 🎓 **Maintained by**: Dr. [Jingyu Wang] | [School of Computer Science, Chongqing University of Posts and Telecommunications] | [d230201034@stu.cqupt.edu.cn]
 
 ## 📖 About This Repository
 
@@ -21,7 +21,7 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h3 id="attacks"> 2023 </h3>
 
-* **[2023.08.23]** **[BaDExpert: Extracting Backdoor Functionality for Accurate Backdoor Input Detection](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/ICLR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([[https://github.com/yunqing-me/AttackVLM](https://github.com/VDIGPKU/T-SEA)](https://github.com/vtu81/backdoor-toolbox)) 
+* **[2023]** **[T-SEA: Transfer-based Self-Ensemble Attack on Object Detection](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/CVPR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([[https://github.com/yunqing-me/AttackVLM](https://github.com/VDIGPKU/T-SEA)](https://github.com/vtu81/backdoor-toolbox)) 
   * Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Chongxuan Li, Ngai-Man Cheung, Min Lin
   * **📝 Summary**: A novel approach that extracts backdoor functionality from infected models to enable accurate detection of backdoor inputs without requiring clean reference data.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable
