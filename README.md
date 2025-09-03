@@ -5,7 +5,7 @@
 
 ## 📖 About This Repository
 
-This repository serves as a curated collection of academic papers focusing on **defense mechanisms** in machine learning. Our goal is to provide researchers, practitioners, and students with a comprehensive overview of the current state-of-the-art in this critical security domain.
+This repository serves as a curated collection of academic papers focusing on **adversarial patch** in machine learning. Our goal is to provide researchers, practitioners, and students with a comprehensive overview of the current state-of-the-art in this critical security domain.
 
 
 ### 🎯 **Repository Purpose:**
