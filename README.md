@@ -21,7 +21,7 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h3 id="attacks"> 2023 </h3>
 
-* **[2023]** **[T-SEA: Transfer-based Self-Ensemble Attack on Object Detection](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/CVPR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/vtu81/backdoor-toolbox?style=social)]([[https://github.com/VDIGPKU/T-SEA](https://github.com/VDIGPKU/T-SEA)]) 
+* **[2023]** **[T-SEA: Transfer-based Self-Ensemble Attack on Object Detection](https://openreview.net/forum?id=s56xikpD92)** ![Static Badge](https://img.shields.io/badge/CVPR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/VDIGPKU/T-SEA?style=social)]([[https://github.com/VDIGPKU/T-SEA](https://github.com/VDIGPKU/T-SEA)]) 
   * Hao Huang, Ziyan Chen, Huanran Chen, Yongtao Wang, Kevin Zhang
   * **📝 Summary**: A novel approach that extracts backdoor functionality from infected models to enable accurate detection of backdoor inputs without requiring clean reference data.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - Addresses the critical challenge of backdoor detection in practical scenarios where clean data is unavailable
