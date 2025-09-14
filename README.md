@@ -34,7 +34,7 @@ This repository serves as a curated collection of academic papers focusing on **
 * **[2024]** **[Revisiting Adversarial Patches for Designing Camera-Agnostic Attacks against Person Detection](https://openreview.net/forum?id=2Inwtjvyx8&referrer=%5Bthe%20profile%20of%20Zhixiang%20Wang%5D(%2Fprofile%3Fid%3D~Zhixiang_Wang1))** ![Static Badge](https://img.shields.io/badge/NIPS'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/weihui1308/CAP?style=social)]([[https://github.com/weihui1308/CAP](https://github.com/weihui1308/CAP)]) 
   * Hui Wei, Zhixiang Wang, Kewei Zhang, Jiaqi Hou, Yuanwei Liu, Hao Tang, Zheng Wang
   * **📝 Summary**: An adversarial patch generation method based on Image Signal Processing, which can successfully attack pedestrians across various camera devices.
-  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of poor transferability of adversarial patches caused by the inability to access black-box models in real-world scenarios.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of adversarial patches' weakened attack effectiveness in the physical world due to the imaging effects of camera devices.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - This method draws an analogy between the training process of adversarial patches and that of neural networks, offering a simple yet effective approach.
   
 <h4 id="awesome-papers"> 👑  “Defend” </h4>
