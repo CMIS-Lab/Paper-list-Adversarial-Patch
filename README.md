@@ -26,3 +26,5 @@ This repository serves as a curated collection of academic papers focusing on **
   * **📝 Summary**: The method integrates data augmentation and model enhancement, allowing attacks on various black-box models through the access of a single white-box model.
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of poor transferability of adversarial patches caused by the inability to access black-box models in real-world scenarios.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - This method draws an analogy between the training process of adversarial patches and that of neural networks, offering a simple yet effective approach.
+
+<h4 id="awesome-papers"> 👑 Awesome Papers List “ATTACK” </h4>
