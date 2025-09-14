@@ -17,7 +17,7 @@ This repository serves as a curated collection of academic papers focusing on **
 - **💡 Motivation**: How well-motivated and significant is the research problem? ⭐⭐⭐⭐⭐ (5/5)
 - **🔧 Method**: How novel and technically sound is the proposed approach? ⭐⭐⭐⭐⭐ (5/5)
 
-<h2 id="awesome-papers"> 👑 Awesome Papers List </h2>
+<h2 id="awesome-papers"> 👑 Awesome Papers List “ATTACK” </h2>
 
 <h3 id="attacks"> 2023 </h3>
 
