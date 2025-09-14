@@ -38,3 +38,11 @@ This repository serves as a curated collection of academic papers focusing on **
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Optimizing both the Image Signal Processing proxy network and the adversarial patch simultaneously using the idea of adversarial training, which is simple and effective.
   
 <h4 id="awesome-papers"> 👑  “Defend” </h4>
+
+<h3 id="attacks"> 2023 </h3>
+
+* **[2023]** **[Jedi: Entropy-based Localization and Removal of Adversarial Patches](https://openaccess.thecvf.com/content/CVPR2023/papers/Tarchoun_Jedi_Entropy-Based_Localization_and_Removal_of_Adversarial_Patches_CVPR_2023_paper.pdf)** ![Static Badge](https://img.shields.io/badge/NIPS'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/weihui1308/CAP?style=social)]([[https://github.com/weihui1308/CAP](https://github.com/weihui1308/CAP)]) 
+  * Bilel Tarchoun, Anouar Ben Khalifa, Mohamed Ali Mahjoub, Nael Abu-Ghazaleh, Ihsen Alouani
+  * **📝 Summary**: An adversarial patch generation method based on Image Signal Processing, which can successfully attack pedestrians across various camera devices.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of adversarial patches' weakened attack effectiveness in the physical world due to the imaging effects of camera devices.
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Optimizing both the Image Signal Processing proxy network and the adversarial patch simultaneously using the idea of adversarial training, which is simple and effective.
