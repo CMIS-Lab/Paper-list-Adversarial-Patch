@@ -17,11 +17,11 @@ This repository serves as a curated collection of academic papers focusing on **
 - **💡 Motivation**: How well-motivated and significant is the research problem? ⭐⭐⭐⭐⭐ (5/5)
 - **🔧 Method**: How novel and technically sound is the proposed approach? ⭐⭐⭐⭐⭐ (5/5)
 
-<h2 id="awesome-papers"> 👑 Awesome Papers List “ATTACK” </h2>
+<h2 id="awesome-papers"> 👑 Awesome Papers List  </h2>
 
 <h3 id="attacks"> 2023 </h3>
 
-<h4 id="awesome-papers"> 👑  “ATTACK” </h4>
+<h4 id="awesome-papers"> 👑  “Attack” </h4>
 
 * **[2023]** **[T-SEA: Transfer-based Self-Ensemble Attack on Object Detection](https://openaccess.thecvf.com/content/CVPR2023/html/Huang_T-SEA_Transfer-Based_Self-Ensemble_Attack_on_Object_Detection_CVPR_2023_paper.html)** ![Static Badge](https://img.shields.io/badge/CVPR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/VDIGPKU/T-SEA?style=social)]([[https://github.com/VDIGPKU/T-SEA](https://github.com/VDIGPKU/T-SEA)]) 
   * Hao Huang, Ziyan Chen, Huanran Chen, Yongtao Wang, Kevin Zhang
@@ -29,4 +29,4 @@ This repository serves as a curated collection of academic papers focusing on **
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of poor transferability of adversarial patches caused by the inability to access black-box models in real-world scenarios.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - This method draws an analogy between the training process of adversarial patches and that of neural networks, offering a simple yet effective approach.
   
-<h4 id="awesome-papers"> 👑  “DEFEND” </h4>
+<h4 id="awesome-papers"> 👑  “Defend” </h4>
