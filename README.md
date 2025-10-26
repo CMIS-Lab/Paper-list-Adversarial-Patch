@@ -37,7 +37,7 @@ This repository serves as a curated collection of academic papers focusing on **
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of adversarial patches' weakened attack effectiveness in the physical world due to the imaging effects of camera devices.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Optimizing both the Image Signal Processing proxy network and the adversarial patch simultaneously using the idea of adversarial training, which is simple and effective.
   
-<h4 id="awesome-papers"> 👑  “Defend” </h4>
+<h4 id="awesome-papers"> 👑  “Empirical Defend” </h4>
 
 <h3 id="attacks"> 2023 </h3>
 
