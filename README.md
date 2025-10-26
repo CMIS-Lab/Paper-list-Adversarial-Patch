@@ -57,3 +57,17 @@ This repository serves as a curated collection of academic papers focusing on **
 
 
 <h5 id="awesome-papers"> 👑  “Certified Defend” </h4>
+
+* **[2022]** **[PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier](https://www.usenix.org/system/files/sec22-xiang.pdf)** ![Static Badge](https://img.shields.io/badge/USENIX'22-6c757d) [![GitHub stars](https://img.shields.io/github/stars/inspire-group/PatchCleanser/stargazers?style=social)]([[https://github.com/inspire-group/PatchCleanser](https://github.com/inspire-group/PatchCleanser)]) 
+  * Chong Xiang, Saeed Mahloujifar, Prateek Mittal
+  * **📝 Summary**: 
+  * **💡 Motivation**: 
+  * **🔧 Method**: 
+
+
+* **[2024]** **[PAD: Patch-Agnostic Defense against Adversarial Patch Attacks](https://www.usenix.org/system/files/sec22-xiang.pdf)** ![Static Badge](https://img.shields.io/badge/USENIX Security'22-6c757d) [![GitHub stars](https://img.shields.io/github/stars/Lihua-Jing/PAD?style=social)]([[https://github.com/Lihua-Jing/PAD](https://github.com/Lihua-Jing/PAD)]) 
+  * Lihua Jing, Rui Wang, Wenqi Ren, Xin Dong, Cong Zou
+  * **📝 Summary**: An adversarial patch generation method based on Image Signal Processing, which can successfully attack pedestrians across various camera devices.
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of adversarial patches' weakened attack effectiveness in the physical world due to the imaging effects of camera devices.
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Optimizing both the Image Signal Processing proxy network and the adversarial patch simultaneously using the idea of adversarial training, which is simple and effective.
+
