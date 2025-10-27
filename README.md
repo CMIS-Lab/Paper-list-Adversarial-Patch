@@ -55,6 +55,13 @@ This repository serves as a curated collection of academic papers focusing on **
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - It solves the key challenge of adversarial patches' weakened attack effectiveness in the physical world due to the imaging effects of camera devices.
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - Optimizing both the Image Signal Processing proxy network and the adversarial patch simultaneously using the idea of adversarial training, which is simple and effective.
 
+<h3 id="attacks"> 2025 </h3>
+
+* **[2025]** **[Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Revisiting_Adversarial_Patch_Defenses_on_Object_Detectors_Unified_Evaluation_Large-Scale_ICCV_2025_paper.pdf)** ![Static Badge](https://img.shields.io/badge/ICCV'25-6c757d) [![GitHub stars](https://img.shields.io/github/stars/Gandolfczjh/APDE/stargazers?style=social)]([[https://github.com/Gandolfczjh/APDE](https://github.com/Gandolfczjh/APDE)]) 
+  *  Junhao Zheng, Jiahao Sun, Chenhao Lin, Zhengyu Zhao, Chen Ma, Chong Zhang, Cong Wang, QianWang, ChaoShen
+  * **📝 Summary**: 
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - 
 
 <h5 id="awesome-papers"> 👑  “Certified Defend” </h4>
 
