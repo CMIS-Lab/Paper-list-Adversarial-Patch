@@ -65,6 +65,8 @@ This repository serves as a curated collection of academic papers focusing on **
 
 <h5 id="awesome-papers"> 👑  “Certified Defend” </h4>
 
+<h3 id="attacks"> 2022 </h3>
+
 * **[2022]** **[PatchCleanser: Certifiably Robust Defense against Adversarial Patches for Any Image Classifier](https://www.usenix.org/system/files/sec22-xiang.pdf)** ![Static Badge](https://img.shields.io/badge/USENIX'22-6c757d) [![GitHub stars](https://img.shields.io/github/stars/inspire-group/PatchCleanser?style=social)]([[https://github.com/inspire-group/PatchCleanser](https://github.com/inspire-group/PatchCleanser)]) 
   * Chong Xiang, Saeed Mahloujifar, Prateek Mittal
   * **📝 Summary**: 
