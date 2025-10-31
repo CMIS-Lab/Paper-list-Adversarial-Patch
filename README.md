@@ -39,6 +39,14 @@ This repository serves as a curated collection of academic papers focusing on **
   
 <h4 id="awesome-papers"> 👑  “Empirical Defend” </h4>
 
+<h3 id="attacks"> 2022 </h3>
+
+* **[2022]** **[Segment and Complete: Defending Object Detectors against Adversarial Patch Attacks with Robust Patch Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Segment_and_Complete_Defending_Object_Detectors_Against_Adversarial_Patch_Attacks_CVPR_2022_paper.pdf)** ![Static Badge](https://img.shields.io/badge/CVPR'22-6c757d) [![GitHub stars](https://img.shields.io/github/stars/joellliu/SegmentAndComplete?style=social)]([[https://github.com/joellliu/SegmentAndComplete](https://github.com/joellliu/SegmentAndComplete)]) 
+  *  Jiang Liu, Alexander Levine, Chun Pong Lau, Rama Chellappa, Soheil Feizi
+  * **📝 Summary**: 
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - 
+
 <h3 id="attacks"> 2023 </h3>
 
 * **[2023]** **[Jedi: Entropy-based Localization and Removal of Adversarial Patches](https://openaccess.thecvf.com/content/CVPR2023/papers/Tarchoun_Jedi_Entropy-Based_Localization_and_Removal_of_Adversarial_Patches_CVPR_2023_paper.pdf)** ![Static Badge](https://img.shields.io/badge/CVPR'23-6c757d) [![GitHub stars](https://img.shields.io/github/stars/ihsenLab/jedi-CVPR2023?style=social)]([[https://github.com/ihsenLab/jedi-CVPR2023](https://github.com/ihsenLab/jedi-CVPR2023)]) 
