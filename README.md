@@ -53,6 +53,12 @@ This repository serves as a curated collection of academic papers focusing on **
   * Lihua Jing, Rui Wang, Wenqi Ren, Xin Dong, Cong Zou
   * **📝 Summary**: .
   * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) -
+
+* **[2024]** **[NAPGuard: Towards Detecting Naturalistic Adversarial Patches](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_NAPGuard_Towards_Detecting_Naturalistic_Adversarial_Patches_CVPR_2024_paper.pdf)** ![Static Badge](https://img.shields.io/badge/CVPR'24-6c757d) [![GitHub stars](https://img.shields.io/github/stars/wsynuiag/NAPGaurd?style=social)]([[https://github.com/wsynuiag/NAPGaurd](https://github.com/wsynuiag/NAPGaurd)]) 
+  * Siyang Wu, Jiakai Wang2, Jiejie Zhao, Yazhe Wang, Xianglong Liu
+  * **📝 Summary**: .
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - 
 
 <h3 id="attacks"> 2025 </h3>
