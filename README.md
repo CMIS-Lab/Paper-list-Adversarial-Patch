@@ -76,6 +76,12 @@ This repository serves as a curated collection of academic papers focusing on **
   * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) -
   
 <h3 id="attacks"> 2025 </h3>
+
+* **[2025]** **[ Saliuitl: Ensemble Salience Guided Recovery of Adversarial Patches against CNNs](https://openaccess.thecvf.com/content/CVPR2025/papers/Victorica_Saliuitl_Ensemble_Salience_Guided_Recovery_of_Adversarial_Patches_against_CNNs_CVPR_2025_paper.pdf)** ![Static Badge](https://img.shields.io/badge/CVPR'25-6c757d) [![GitHub stars](https://img.shields.io/github/stars/Saliuitl/Saliuitl?style=social)]([[https://github.com/Saliuitl/Saliuitl](https://github.com/Saliuitl/Saliuitl)]) 
+  *  Mauricio Byrd Victorica, Gyorgy Dan, Henrik Sandberg
+  * **📝 Summary**: 
+  * **💡 Motivation**: ⭐⭐⭐⭐⭐ (5/5) - 
+  * **🔧 Method**: ⭐⭐⭐⭐⭐ (5/5) - 
  
 * **[2025]** **[Revisiting Adversarial Patch Defenses on Object Detectors: Unified Evaluation, Large-Scale Dataset, and New Insights](https://openaccess.thecvf.com/content/ICCV2025/papers/Zheng_Revisiting_Adversarial_Patch_Defenses_on_Object_Detectors_Unified_Evaluation_Large-Scale_ICCV_2025_paper.pdf)** ![Static Badge](https://img.shields.io/badge/ICCV'25-6c757d) [![GitHub stars](https://img.shields.io/github/stars/Gandolfczjh/APDE?style=social)]([[https://github.com/Gandolfczjh/APDE](https://github.com/Gandolfczjh/APDE)]) 
   *  Junhao Zheng, Jiahao Sun, Chenhao Lin, Zhengyu Zhao, Chen Ma, Chong Zhang, Cong Wang, QianWang, ChaoShen
